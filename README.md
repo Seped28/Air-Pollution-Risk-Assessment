@@ -21,4 +21,4 @@ Bulloch county seem to be more at risk than Effingham( Wood product from statesb
 
 
 
-![The project poster](https://github.com/Seped28/California-Election-data/blob/main/Election_analysis.jpg)
+![The project poster](https://github.com/Seped28/Air-Pollution-Risk-Assessment/blob/main/Poster-AirPollutionAssessment.jpg)
