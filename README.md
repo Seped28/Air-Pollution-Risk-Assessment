@@ -9,14 +9,14 @@ By leveraging GIS techniques, the study maps air pollutant concentrations, analy
 
 
 ## Resource used
-ArcGIS
-Air Quality dataset (from EPA)
-Population and administrative boundary dataset (from Cemsu)
+* ArcGIS
+* Air Quality dataset (from EPA)
+* Population and administrative boundary dataset (from Cemsu)
 
 ## Conclusion
 There are more TRI stations in 2010 (143) than in 2020 (109).
 There is a reduction in the number of people exposed from 2010 to 2020, but the spatial distribution is a concern. 
-Bulloch county seem to be more at risk than Effingham( Wood product from statesboro).The hyundai plant in Bryan county seems to be introducing more pollutant (Fabricated metal). Population is not entirely correlated with the population at risk. There is a possible indication of Covid.
+Bulloch county seem to be more at risk than Effingham (Wood product from Statesboro). The Hyundai plant in Bryan County seems to be introducing more pollutants (Fabricated metal). The population is not entirely correlated with the population at risk. There is a possible indication of Covid.
 
 
 
